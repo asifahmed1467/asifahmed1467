@@ -243,25 +243,6 @@ I am actively involved in research projects focusing on **Artificial Intelligenc
 ---
 
 
-## ⚡ Developer Mindset
-
-
-```python
-class Asif:
-
-    def __init__(self):
-        self.role = "Data Science Student"
-        self.focus = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Research",
-            "Software Development"
-        ]
-
-    def mission(self):
-        return "Build intelligent systems that solve real-world problems"
-
-
 # 🌐 Connect With Me
 
 
@@ -300,3 +281,24 @@ class Asif:
 Machine Learning Internships | Research Collaboration | Software Development Opportunities
 
 </p>
+
+
+## ⚡ Developer Mindset
+
+
+```python
+class Asif:
+
+    def __init__(self):
+        self.role = "Data Science Student"
+        self.focus = [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Research",
+            "Software Development"
+        ]
+
+    def mission(self):
+        return "Build intelligent systems that solve real-world problems"
+
+

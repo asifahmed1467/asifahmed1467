@@ -8,6 +8,26 @@
 
 ## 🚀 About Me
 
+
+## 📚 Research & Publications
+
+I am actively involved in research projects related to AI, Data Science, and intelligent systems.
+
+### 📄 Publications (Under Review)
+
+**1. Smart Governance Framework for Project Prioritization Using AHP and Blockchain**
+
+- Research area: Blockchain, Decision Support Systems, Smart Governance
+- Status: Under Review
+
+
+**2. Unsupervised Discovery of Human-AI Collaboration Patterns in Enterprise and Management Systems**
+
+- Research area: Artificial Intelligence, Human-AI Collaboration, Data Analysis
+- Status: Submitted to ICCA 2026 (Under Review)
+
+---
+
 I am a CSE student passionate about building intelligent systems using Machine Learning and Data Science.
 
 My interests include:
